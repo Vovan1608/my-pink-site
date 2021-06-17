@@ -10919,6 +10919,9 @@ textarea.form-control-lg {
     font-size: 1.6rem;
   }
 }
+.footer-sm a:hover {
+  color: #9926f0;
+}
 
 .campany-list {
   display: block;
